@@ -158,19 +158,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LoneMonk298&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LoneMonk298&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 ### 📈 GitHub Activity
 
