@@ -173,6 +173,6 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/LoneMonk298/LoneMonk298/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/LoneMonk298/LoneMonk298/gh-pages/github-contribution-grid-snake.svg">
 
 </p>
