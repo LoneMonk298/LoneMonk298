@@ -158,22 +158,34 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LoneMonk298&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LoneMonk298&show_icons=true&theme=tokyonight"/>
+
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LoneMonk298&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
 
-
-
-
-## 📈 GitHub Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LoneMonk298)](...)
-
-
+### 📈 GitHub Activity
 
 <p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LoneMonk298&theme=tokyo-night">
+
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/LoneMonk298/LoneMonk298/output/github-contribution-grid-snake.svg">
+
 </p>
