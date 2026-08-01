@@ -50,9 +50,6 @@
 </p>
 
 
-
----
-
 ### 后端技术栈
 
 <p>
@@ -73,9 +70,6 @@
 </p>
 
 
-
----
-
 ### 嵌入式技术栈
 
 <p>
@@ -89,8 +83,6 @@
 <img src="https://img.shields.io/badge/MQTT-F25022?logo=MQTT&logoColor=white">&nbsp;
 </p>
 
-
----
 
 ### 开发工具
 
@@ -106,8 +98,6 @@
 </p>
 
 
----
-
 ### AI & Productivity
 
 <p>
@@ -119,8 +109,6 @@
 </p>
 
 
----
-
 ### 测试工具链
 
 <p>
@@ -129,8 +117,6 @@
 <img src="https://img.shields.io/badge/Mobaxterm-412991?logo=mobaxterm&logoColor=white">&nbsp;
 </p>
 
-
----
 
 ### 运维工具链
 
@@ -142,8 +128,6 @@
 <img src="https://img.shields.io/badge/宝塔-412991?logo=bt&logoColor=white">&nbsp;
 </p>
 
-
----
 
 ### DevOps
 
@@ -159,9 +143,6 @@
 </p>
 
 
-
----
-
 ### 其它
 
 <p>
@@ -174,8 +155,6 @@
 <img src="https://img.shields.io/badge/-Office-FF6C37?logo=microsoft&logoColor=white" >&nbsp;
 <img src="https://img.shields.io/badge/-Cmd-2496ED">&nbsp;
 </p>
-
-
 
 ---
 
